@@ -1,7 +1,5 @@
 /* ----------------------------------------------------------------------------
- * ergoDOX : layout : COLEMAK : exports
- * 
- * Submitted by Jason Trill [jjt] (https://github.com/jjt)
+ * ergoDOX : layout : DEFAULT : exports
  * ----------------------------------------------------------------------------
  * Copyright (c) 2012 Ben Blazak <benblazak.dev@gmail.com>
  * Released under The MIT License (MIT) (see "license.md")
@@ -9,8 +7,8 @@
  * ------------------------------------------------------------------------- */
 
 
-#ifndef KEYBOARD__ERGODOX__LAYOUT__COLEMAK_h
-	#define KEYBOARD__ERGODOX__LAYOUT__COLEMAK_h
+#ifndef KEYBOARD__ERGODOX__LAYOUT__DEFAULT_h
+	#define KEYBOARD__ERGODOX__LAYOUT__DEFAULT_h
 
 	#include "../controller.h"
 
